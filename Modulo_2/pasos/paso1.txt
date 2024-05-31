@@ -1,0 +1,30 @@
+A) Crea tu juego de cartas
+
+- Diseña un juego de cartas sobre razas de perros.
+
+B). Revise el resultado de Géminis. Tenga en cuenta el objetivo de esta tarea: aumentar la fidelidad a la marca de la empresa de cuidado de mascotas. Plantéese preguntas como las siguientes:
+
+- ¿Qué ideas funcionan para el juego?
+  La mecánica del juego funciona, dentro de la Temática, lo que más funciona lo de los Personajes caninos, Miniatura de perros... Dentro de los Elementos educativos
+  la información adicional de los perros. En la promoción las Campañas de Marketing, y por último en Consideraciones finales las pruebas de juego y los comentarios de los jugadores
+- ¿Qué tipo de juego atraería a los clientes de la empresa de cuidado de mascotas y ayudaría a generar asociaciones positivas con su marca?
+Pues fundamentalmente tiene que ser un juego ameno, divertido, y al mismo tiempo educativo.
+
+- ¿Qué aspectos del juego desea cambiar?
+Todo lo que no señale, en el punto de lo que funciona en el juego.
+
+- ¿Qué ideas de juego podrían no atraer a los clientes?
+No creo que hacer eventos y torneos atraiga al público. Lo normal es que con el Marketing baste, y luego si el juego es bueno, sea lo suficientemente aceptado por todos, para que se extienda de boca en boca.
+
+C). Introduzca indicaciones adicionales para perfeccionar su juego con peticiones de seguimiento. Puede pedir a Gemini que realice ajustes en el juego en función de los siguientes factores:
+
+Complejidad: Pida a Gemini que haga el juego más simple o más complejo.
+
+Mazo de cartas: Pide a Gemini que cambie el tipo de mazo o que utilice un número diferente de cartas.
+
+Objetivo del juego: Pide a Géminis que establezca un objetivo de juego diferente. Por ejemplo, si creó un juego con el objetivo de emparejar cartas, puede pedirle que el objetivo se base en conseguir puntos o en coleccionar cartas.
+
+Introduzca tantas indicaciones adicionales como necesite para refinar su idea de juego de cartas.
+
+D). En la sección Diseño del juego de tu plantilla Juego de cartas y notas de presentación, escribe 2-3 frases para describir las ideas finales de tu juego. A continuación, escribe de 2 a 5 frases más para describir tu participación en la evaluación del resultado y cómo hiciste el seguimiento de las peticiones adicionales para desarrollar estas ideas. 
+
